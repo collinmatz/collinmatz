@@ -37,6 +37,7 @@
   <code><img title="HTML5" height="35" src="images/html-5.svg"></code>
   <code><img title="CSS3" height="35" src="images/css-3.svg"></code>
   <code><img title="Haskell" height="35" src="images/haskell.svg"></code>
+  <code><img title="Prolog" height="35" src="images/prolog.svg"></code>
 </p>
 <hr>
 <br>
