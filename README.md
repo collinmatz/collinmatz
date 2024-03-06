@@ -12,17 +12,15 @@
   <br>
   💻 I make cool stuff.
 </p>
-<hr>
 <br>
 
 <h2 align="center">Connect</h2>
 <p align="center">
-    <a href="https://www.linkedin.com/in/collinmatz/"><img title="LinkedIn" height="35" src="images/linkedin-1.svg"></a>
-    <a href="https://github.com/collinmatz"><img title="GitHub" height="35" src="images/github.svg"></a>
-    <a href="https://stackoverflow.com/users/10167530/collin-matz"><img title="Stack Overflow" height="35" src="images/stack-overflow.svg"></a>
-    <a href="https://codepen.io/InCodeWeTrust"><img title="Codepen" height="35" src="images/codepen.svg"></a>
+    <code><a href="https://www.linkedin.com/in/collinmatz/"><img title="LinkedIn" height="35" src="images/linkedin-1.svg"></a></code>
+    <code><a href="https://github.com/collinmatz"><img title="GitHub" height="35" src="images/github.svg"></a></code>
+    <code><a href="https://stackoverflow.com/users/10167530/collin-matz"><img title="Stack Overflow" height="35" src="images/stack-overflow.svg"></a></code>
+    <code><a href="https://codepen.io/InCodeWeTrust"><img title="Codepen" height="35" src="images/codepen.svg"></a></code>
 </p>
-<hr>
 <br>
 
 <h2 align="center">Programming Languages</h2>
@@ -36,10 +34,9 @@
   <code><img title="TypeScript" height="35" src="images/typescript.svg"></code>
   <code><img title="HTML5" height="35" src="images/html-5.svg"></code>
   <code><img title="CSS3" height="35" src="images/css-3.svg"></code>
-  <code><img title="Haskell" height="35" src="images/haskell.svg"></code>
+  <code><img title="Haskell" height="35" src="images/haskell-icon.svg"></code>
   <code><img title="Prolog" height="35" src="images/prolog.svg"></code>
 </p>
-<hr>
 <br>
 
 <h2 align="center">Tools</h2>
