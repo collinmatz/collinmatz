@@ -12,7 +12,6 @@
   <br>
   💻 I make cool stuff.
 </p>
-<hr>
 <br>
 
 <h2 align="center">Connect</h2>
@@ -22,7 +21,6 @@
     <a href="https://stackoverflow.com/users/10167530/collin-matz"><img title="Stack Overflow" height="35" src="images/stack-overflow.svg"></a>
     <a href="https://codepen.io/InCodeWeTrust"><img title="Codepen" height="35" src="images/codepen.svg"></a>
 </p>
-<hr>
 <br>
 
 <h2 align="center">Programming Languages</h2>
@@ -38,7 +36,6 @@
   <code><img title="CSS3" height="35" src="images/css-3.svg"></code>
   <code><img title="Haskell" height="35" src="images/haskell.svg"></code>
 </p>
-<hr>
 <br>
 
 <h2 align="center">Tools</h2>
