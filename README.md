@@ -34,7 +34,7 @@
   <code><img title="TypeScript" height="35" src="images/typescript.svg"></code>
   <code><img title="HTML5" height="35" src="images/html-5.svg"></code>
   <code><img title="CSS3" height="35" src="images/css-3.svg"></code>
-  <code><img title="Haskell" height="35" src="images/haskell.svg"></code>
+  <code><img title="Haskell" height="35" src="images/haskell-icon.svg"></code>
 </p>
 <br>
 
