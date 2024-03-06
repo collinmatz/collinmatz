@@ -19,6 +19,7 @@
     <code><a href="https://www.linkedin.com/in/collinmatz/"><img title="LinkedIn" height="35" src="images/linkedin-1.svg"></a></code>
     <code><a href="https://github.com/collinmatz"><img title="GitHub" height="35" src="images/github.svg"></a></code>
     <code><a href="https://stackoverflow.com/users/10167530/collin-matz"><img title="Stack Overflow" height="35" src="images/stack-overflow.svg"></a></code>
+    <code><a href="https://leetcode.com/collinmatz/"><img title="Leetcode" height="35" src="images/leetcode-svgrepo-com.svg"></a></code>
     <code><a href="https://codepen.io/InCodeWeTrust"><img title="Codepen" height="35" src="images/codepen.svg"></a></code>
 </p>
 <br>
