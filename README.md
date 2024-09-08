@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  🎓 University of Texas at Dallas
+  🎓 University of Texas at (Austin MS, Dallas BS)
   <br>
   ✈ Lockheed Martin Sensor Fusion
   <br>
